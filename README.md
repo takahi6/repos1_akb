@@ -1,4 +1,2 @@
 # repos1_akb
-readme
-
-こみっと
+2018年8月13日_Git Hub基礎演習
