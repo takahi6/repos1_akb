@@ -1,4 +1,4 @@
 # repos1_akb
 readme
 
-##こみっと
+こみっと
